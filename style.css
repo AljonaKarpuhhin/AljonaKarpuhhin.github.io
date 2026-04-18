@@ -177,12 +177,6 @@ nav a.active {
     background-size: 920%;
     background-position: 21% 32%;
   }
-  #avatar:hover {
-    background-size: 200%;
-    background-position: 21% 45%;
-    width: 100%;
-    height: 24rem;
-  }
   #overlay {
     position: relative;
     margin: auto;
@@ -234,9 +228,6 @@ nav a.active {
     margin-bottom: 1rem;
   }
   #overlay:hover,
-  #avatar:hover {
-    height: 16rem;
-  }
   #hello p,
   #hello li,
   nav a {
@@ -273,9 +264,6 @@ nav a.active {
     height: 6rem;
   }
   #overlay:hover,
-  #avatar:hover {
-    height: 12rem;
-  }
   #social a,
   #social a .icon {
     width: 2.4rem;
